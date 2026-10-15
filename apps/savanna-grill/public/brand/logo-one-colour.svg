@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 82" role="img" aria-labelledby="title">
+  <title id="title">Savanna Grill one-colour logo</title>
+  <g transform="translate(4 5)" fill="#1A1613">
+    <path d="M39 5c2 14-10 21-11 34-1 10 4 18 11 18 8 0 14-8 14-18 0-8-4-15-11-23 1 10-3 16-7 20 1-10 7-19 4-31Z"/>
+    <path d="M12 65h48M16 72h40M21 79h30" fill="none" stroke="#1A1613" stroke-width="3" stroke-linecap="round"/>
+  </g>
+  <text x="92" y="39" fill="#1A1613" font-family="Arial Black, Impact, sans-serif" font-size="32" font-weight="900" letter-spacing="1">SAVANNA</text>
+  <text x="94" y="63" fill="#1A1613" font-family="Arial, sans-serif" font-size="15" font-weight="700" letter-spacing="6">G R I L L</text>
+</svg>

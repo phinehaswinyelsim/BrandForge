@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 440 82" role="img" aria-labelledby="title">
+  <title id="title">Savanna Grill</title>
+  <g transform="translate(4 5)">
+    <rect width="72" height="72" rx="20" fill="#E8531C"/>
+    <path d="M39 10c2 12-10 17-11 29-1 8 4 13 11 13 8 0 14-6 14-15 0-7-4-13-11-20 1 9-3 12-7 16 1-8 7-14 4-23Z" fill="#FFF4E0"/>
+    <path d="M20 55h32M23 61h26M26 67h20" stroke="#1A1613" stroke-width="3" stroke-linecap="round"/>
+  </g>
+  <text x="92" y="39" fill="#FFF4E0" font-family="Arial Black, Impact, sans-serif" font-size="32" font-weight="900" letter-spacing="1">SAVANNA</text>
+  <text x="94" y="63" fill="#F2A93B" font-family="Arial, sans-serif" font-size="15" font-weight="700" letter-spacing="6">G R I L L</text>
+</svg>

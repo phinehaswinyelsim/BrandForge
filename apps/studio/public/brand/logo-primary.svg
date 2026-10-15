@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 110" fill="none">
+  <defs><linearGradient id="forge" x1="18" y1="19" x2="102" y2="83" gradientUnits="userSpaceOnUse"><stop stop-color="#A88BFF"/><stop offset=".55" stop-color="#E78AB1"/><stop offset="1" stop-color="#FF806D"/></linearGradient></defs>
+  <g transform="translate(0 5)"><path d="M31 22v56m2-54h24a13 13 0 0 1 0 26H33m0 0h29a14 14 0 0 1 0 28H33m38 0V22h32M71 48h26" stroke="url(#forge)" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/><path d="m100 11 2.8 7.2L110 21l-7.2 2.8L100 31l-2.8-7.2L90 21l7.2-2.8L100 11Z" fill="#FF9B8E"/></g>
+  <text x="132" y="69" fill="#F4F1EC" font-family="Inter,Arial,sans-serif" font-size="31" font-weight="600" letter-spacing="4">BRAND FORGE</text>
+</svg>

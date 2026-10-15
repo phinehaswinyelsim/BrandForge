@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 520 140" role="img" aria-labelledby="title desc">
+  <title id="title">Adwoa Glow one-colour logo</title><desc id="desc">Single-colour wordmark and botanical seed emblem.</desc>
+  <g fill="#3A211D" transform="translate(10 10)">
+    <circle cx="58" cy="60" r="51" fill="none" stroke="#3A211D" stroke-width="2"/>
+    <path d="M58 18c-16 17-21 34-14 47 4 7 10 9 14 20 4-11 10-13 14-20 7-13 2-30-14-47Z"/>
+    <path d="M58 27c-5 18-2 31 0 44 3-13 6-26 0-44Z"/>
+    <path d="M58 68c-12 6-18 15-19 25 10-2 18-9 19-25Zm0 0c12 6 18 15 19 25-10-2-18-9-19-25Z"/>
+  </g>
+  <text x="138" y="72" fill="#3A211D" font-family="Georgia,serif" font-size="47" letter-spacing=".5">ADWOA</text>
+  <text x="141" y="108" fill="#3A211D" font-family="Arial,sans-serif" font-size="16" letter-spacing="8">G L O W</text>
+</svg>

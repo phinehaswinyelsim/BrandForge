@@ -1,0 +1,22 @@
+{
+  "name": "brand-forge",
+  "version": "0.1.0",
+  "private": true,
+  "workspaces": [
+    "apps/*"
+  ],
+  "scripts": {
+    "dev": "npm run dev --workspace @brand-forge/studio",
+    "graphics:export": "node scripts/export-graphics.mjs",
+    "lint": "npm run lint --workspaces --if-present",
+    "typecheck": "npm run typecheck --workspaces --if-present",
+    "build": "npm run build --workspaces --if-present",
+    "smoke": "npm run smoke --workspaces --if-present"
+  },
+  "engines": {
+    "node": ">=20.9"
+  },
+  "devDependencies": {
+    "playwright": "1.64.0"
+  }
+}

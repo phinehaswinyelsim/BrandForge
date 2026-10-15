@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 180 180" role="img" aria-labelledby="title">
+  <title id="title">Nkwa Logistics route mark</title>
+  <rect width="180" height="180" rx="42" fill="#0B3D2E"/>
+  <path d="M38 126 75 72l35 48 34-66" fill="none" stroke="#F6F5EF" stroke-width="10" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="m110 120 34-66" fill="none" stroke="#FFB703" stroke-width="10" stroke-linecap="round"/>
+  <circle cx="38" cy="126" r="11" fill="#FFB703" stroke="#F6F5EF" stroke-width="4"/>
+  <circle cx="144" cy="54" r="11" fill="#FFB703" stroke="#F6F5EF" stroke-width="4"/>
+</svg>
